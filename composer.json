@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php": ">=5.3.3",
+    "kriswallsmith/buzz": "0.9",
+    "zendframework/zend-json": "2.1.*"
+  }
+}

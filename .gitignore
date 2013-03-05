@@ -1,0 +1,8 @@
+# Composer
+/vendor
+
+# OS Specific
+.DS_Store
+
+# Generated Files
+/v1/*
