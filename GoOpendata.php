@@ -37,4 +37,4 @@ foreach ($available as $key => $val) {
 	}
 }
 
-file_put_contents(__DIR__ . '/' . $apiVersion . '/liste.json', json_encode($dataset));
+file_put_contents(__DIR__ . '/' . $apiVersion . '/liste.json', json_encode($dataset, JSON_PRETTY_PRINT));
